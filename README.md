@@ -5,7 +5,7 @@
   <img width="700" src="https://github.com/YangXLR8/BottleFillDetector/blob/main/results.png" alt="cli output"/>
 </p>
 
-## Desciption
+## Description
 
 This project aims to predict the volume of liquid in containers using image processing and machine learning techniques. It uses free assets for image data and processes them to extract features for training a regression model.
 
@@ -27,7 +27,7 @@ This project aims to predict the volume of liquid in containers using image proc
 
 The `results.png` file will contain the images from the `guess` folders along with their average predicted volumes.
 
-## Colaborators
+## Collaborators
 
 👤 **Cantiller, Sophia Feona** - Github: [@SophiaCantiller](https://github.com/SophiaCantiller)
 
