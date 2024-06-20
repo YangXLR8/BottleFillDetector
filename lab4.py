@@ -95,6 +95,7 @@ def display_results(guess_dir_base, subfolders, model):
             ax.set_title(f"No images in Subfolder {subfolder}")
 
     plt.tight_layout()
+    plt.subplots_adjust(top=0.85)
     plt.savefig('results.png')
     plt.show()
 
